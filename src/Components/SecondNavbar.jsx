@@ -2,7 +2,7 @@ import logo from "../icons/logo.svg";
 import plane from "../icons/plane.svg";
 import bed from "../icons/bed.svg";
 import blackheart from "../icons/blackheart.svg";
-import footerlogo from "../icons/footerlogo.svg"
+import footerlogo from "../icons/footerLogo.svg";
 import johndayi from "../assets/images/JohnCircle.png";
 import { AiOutlineBars } from "react-icons/ai";
 import { RxCross2 } from "react-icons/rx";
