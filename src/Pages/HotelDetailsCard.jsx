@@ -1,7 +1,7 @@
 import location from "../icons/location.svg";
 import { Link } from "react-router-dom";
 import hotelcard from "../icons/hotelcard.svg";
-import johncircle from "../assets/images/johncircle.png";
+import johncircle from "../assets/images/JohnCircle.png";
 import calendar from "../icons/calendar.svg";
 import hotelmint from "../icons/hotelmint.svg";
 import qrCode from "../icons/qrCode.svg";
