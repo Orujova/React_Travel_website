@@ -3,7 +3,7 @@ import { Link, NavLink } from "react-router-dom";
 import { AiOutlineBars } from "react-icons/ai";
 import { RxCross2 } from "react-icons/rx";
 import logo from "../icons/logo.svg";
-import footerlogo from "../icons/footerlogo.svg"
+import footerlogo from "../icons/footerLogo.svg";
 import whiteLogo from "../icons/whiteLogo.svg";
 import plane from "../icons/plane.svg";
 import bed from "../icons/bed.svg";
