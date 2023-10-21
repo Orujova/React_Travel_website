@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import {Link} from 'react-router-dom'
 import AOS from "aos";
-import planeImg from "../assets/images/planeImg.png"
+import planeImg from "../assets/images/planeimg.png";
 function NotFound() {
   useEffect(() => {
     AOS.init({
