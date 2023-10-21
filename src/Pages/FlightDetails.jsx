@@ -1,5 +1,5 @@
 import Star from "../assets/images/Star.png";
-import flightDetail1 from "../assets/images/flightDetail1.png";
+import flightDetail1 from "../assets/images/fLightDetail1.png";
 import flightDetail2 from "../assets/images/flightDetail2.png";
 import flightDetail3 from "../assets/images/flightDetail3.png";
 import flightDetail4 from "../assets/images/flightDetail4.png";
