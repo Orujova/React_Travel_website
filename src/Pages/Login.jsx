@@ -1,4 +1,4 @@
-import loginImage from "../assets/images/loginImage.png";
+import loginImage from "../assets/images/LoginImage.png";
 import faceBook from "../icons/face.svg";
 import google from "../icons/google.svg";
 import apple from "../icons/apple.svg";
